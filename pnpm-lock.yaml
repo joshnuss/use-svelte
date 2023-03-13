@@ -1,0 +1,40 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@rollup/browser': ^3.19.1
+  react: ^18.2.0
+  svelte: ^3.56.0
+
+dependencies:
+  '@rollup/browser': 3.19.1
+  react: 18.2.0
+  svelte: 3.56.0
+
+packages:
+
+  /@rollup/browser/3.19.1:
+    resolution: {integrity: sha512-IEcUIDY3lfqJaUcro0lTJiki5VtVvE0RMBDzUu2QhNCJeU81+dDrPtVQlfbQUlomr1lb+QpP5adr73D5vvGehg==}
+    dev: false
+
+  /js-tokens/4.0.0:
+    resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
+    dev: false
+
+  /loose-envify/1.4.0:
+    resolution: {integrity: sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==}
+    hasBin: true
+    dependencies:
+      js-tokens: 4.0.0
+    dev: false
+
+  /react/18.2.0:
+    resolution: {integrity: sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==}
+    engines: {node: '>=0.10.0'}
+    dependencies:
+      loose-envify: 1.4.0
+    dev: false
+
+  /svelte/3.56.0:
+    resolution: {integrity: sha512-LvXiJbjdvJKwB/0CQyYpDX0q+hFqCyWmybzC2G6eK1tJJA/RSRCytTfNmjHv+RHlLuA70vWG7nXp6gbeErYvRA==}
+    engines: {node: '>= 8'}
+    dev: false
