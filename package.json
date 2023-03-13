@@ -1,5 +1,5 @@
 {
-  "name": "use-svelte",
+  "name": "use-svelte-hook",
   "version": "0.0.1",
   "description": "React hook for using Svelte",
   "main": "index.js",
