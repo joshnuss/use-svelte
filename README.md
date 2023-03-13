@@ -7,7 +7,7 @@ A React hook for loading Svelte modules.
 Pass some Svelte code to `useSvelte()`, and it returns a `ref` suitable for binding an element.
 
 ```jsx
-import { useSvelte } from 'use-svelte'
+import { useSvelte } from 'use-svelte-hook'
 
 function App() {
   const ref = useSvelte(`<p>{123}</p>`)
